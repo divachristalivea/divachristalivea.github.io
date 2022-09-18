@@ -22,5 +22,5 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from  modified by diva christalivea</p>
+<p style="font-size:11px">Page modified by diva christalivea</p>
 <!-- Remove above link if you don't want to attibute -->
