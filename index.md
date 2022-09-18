@@ -8,24 +8,15 @@
 <img src="images/dummy 1.jpg?raw=true"/>
 
 ---
-[Optimalisasi sistem 2 ](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Optimalisasi sistem 2 ](https://colab.research.google.com/drive/1_XNJk_PhS8j39j7OgsrE2vtIbs6jdZII?usp=sharing)
+<img src="images/dummy 2.jpg?raw=true"/>
 
 ---
-[Optimalisasi sistem 3](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Optimalisasi sistem 3](https://colab.research.google.com/drive/1o-6VIlgHe6O2s5gKrZcRBl0eqQsTSFu0?usp=sharing)
+<img src="images/dummy 3.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
-
-## - [Project 1 Title](http://example.com/)
-## - [Project 2 Title](http://example.com/)
-## - [Project 3 Title](http://example.com/)
-## - [Project 4 Title](http://example.com/)
-## - [Project 5 Title](http://example.com/)
-
----
 
 
 
