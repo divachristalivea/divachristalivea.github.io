@@ -4,8 +4,8 @@
 
 ### Teknik Optimalisasi 
 
-[Optimalisasi sistem 1](/sample_page)
-(https://colab.research.google.com/drive/1L_7kv-eeygtPpy5UsGLdeEVGE3_tPl5P?usp=sharing)
+[Optimalisasi sistem 1](https://colab.research.google.com/drive/1L_7kv-eeygtPpy5UsGLdeEVGE3_tPl5P?usp=sharing)
+<img src="images/dummy 1.jpg?raw=true"/>
 
 ---
 [Optimalisasi sistem 2 ](/pdf/sample_presentation.pdf)
