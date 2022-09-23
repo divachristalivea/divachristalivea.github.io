@@ -4,7 +4,7 @@
 
 ### Topic 1 dan 2 - Assignment Esai Use Case Data Science dan Membuat Halaman Github
 
-[Tugas Topic 1 dan 2](Topic 1 dan 2 - Assignment Esai Use Case Data Science dan Membuat Halaman Github)
+[Tugas Topic 1 dan 2](https://drive.google.com/file/d/1YDu9rSb-QoV_zjM-ODwbHq2kleSe86_4/view?usp=sharing)
 <img src="images/usecase.jpg?raw=true"/>
 
 ---
