@@ -8,8 +8,11 @@
 <img src="images/usecase.jpg?raw=true"/>
 
 ---
-[Contoh dummy 2](https://colab.research.google.com/drive/1_XNJk_PhS8j39j7OgsrE2vtIbs6jdZII?usp=sharing)
-<img src="images/dummy 2.jpg?raw=true"/>
+### Topic 3 & 4 - Practice | Hands-On Python 1
+
+[Tugas Topic 3 dan 4](https://colab.research.google.com/drive/1LjdlFdrDORV62TSNdnNBxaNobdkMzUo6?usp=sharing)
+<img src="images/top 3 4.jpg?raw=true"/>
+
 
 ---
 [Contoh dummy 3](https://colab.research.google.com/drive/1o-6VIlgHe6O2s5gKrZcRBl0eqQsTSFu0?usp=sharing)
